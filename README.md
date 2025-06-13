@@ -1,7 +1,7 @@
-![TICTACTOE 1](https://github.com/user-attachments/assets/b8edfbf6-86c1-49d8-a81a-bb21fa4e26a4)
+![TICTACTOE 1](https://github.com/user-attachments/assets/a78dc083-aa78-4854-ae6b-8036a8a35c69)
 
+![TICTACTOE 2](https://github.com/user-attachments/assets/9c22d8d8-fa1e-4691-b067-a57fa05d4d38)
 
-![TICTACTOE 2](https://github.com/user-attachments/assets/330ede92-32e5-4f38-8be0-ea6e0c784308)
 
 # Hello World with React boilerplate
 
